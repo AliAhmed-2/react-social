@@ -1,0 +1,20 @@
+.wave{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+}
+.name-heading{
+    font-size: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+
+}
+.email-heading{
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+/* .details{
+  
+} */

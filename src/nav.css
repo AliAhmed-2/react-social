@@ -1,0 +1,12 @@
+.nav-bar{
+    display: flex;
+    gap: 40px;
+    justify-content: flex-end;
+
+}
+.butn{
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    
+}

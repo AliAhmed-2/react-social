@@ -1,0 +1,9 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 30%;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
