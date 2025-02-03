@@ -7,3 +7,26 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+.login-methods{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.login-methods button{
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+    border: 0px transparent ;
+}
+.github{
+    background-color: black;
+    color: white;
+}
+.google{
+    background-color: rgb(237, 237, 185);
+    color: black;
+}
+.facebook{
+    background-color: blue;
+    color: white;
+}

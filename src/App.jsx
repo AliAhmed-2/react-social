@@ -13,7 +13,7 @@ function App() {
 
 
   const firebaseConfig = {
-    apiKey: "AIzaSyD70WHgzBXXTuu6nnsRCaIQeLjjiPXg2EI",
+    apiKey: "AIzaSyDcog6itVXUDTRCMVyLUn9p_LDi79W0S_I",
     authDomain: "social-app-6bfc2.firebaseapp.com",
     projectId: "social-app-6bfc2",
     storageBucket: "social-app-6bfc2.firebasestorage.app",
